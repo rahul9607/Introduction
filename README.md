@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hey there! I'm Rahul
 
-<!--
-**rahul9607/rahul9607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student currently learning **Data Science**, **Python**, and **Machine Learning**  
+🚀 Exploring the world of data one line of code at a time  
+🧠 Trying, failing, learning — and loving the journey!  
+☕ Coffee is my study buddy  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I'm Learning
+- 🐍 Python basics + advanced concepts
+- 📚 Python libraries: **Pandas, NumPy, Matplotlib, Scikit-learn**
+- 📊 Data Analysis & Visualization
+- 🤖 Intro to Machine Learning
+- 🗃️ SQL for data handling
+
+---
+
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](www.linkedin.com/in/rahul-verma-194168351) 
+- 📫 Email: rahulverma9630@gmail.com 
+
+---
+
+_“Big journeys begin with small steps.” 
