@@ -17,7 +17,7 @@
 ---
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/rahul-verma96) 
+- 💼 [LinkedIn]([www.linkedin.com/in/rahul-verma96](https://www.linkedin.com/in/rahul-verma-194168351/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
 - 📫 Email: rahulverma9630@gmail.com 
 
 ---
